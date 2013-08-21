@@ -1,0 +1,18 @@
+This file is used to record 'HOW I CHANGE TC OPTIONS(SETTINGS)'. Not used by TC, but for myself.
+
+Display
+    (Check) Show hidden/system files(for experts only!)
+
+Display, font
+    No bold.
+
+Operation
+    (Check) Allow only 1 copy of Total Commander at a time
+    (Check) Always go to the root of a drive when changing drivers.
+    Mouse selection mode,   select to 'Left mouse button (Windows standard)'
+
+Operation, Edit/View
+    Editor for F4,  set to  D:\Program Files\Notepad++\notepad++.exe
+
+Operation, Quick Search
+    Quick search(current dir), select to 'Letter only'
