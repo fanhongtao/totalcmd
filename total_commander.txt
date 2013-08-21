@@ -16,3 +16,8 @@ Operation, Edit/View
 
 Operation, Quick Search
     Quick search(current dir), select to 'Letter only'
+
+Misc
+    Redefine hotkeys:
+        ALT-D -> cm_EditPath
+
