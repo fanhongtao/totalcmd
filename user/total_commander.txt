@@ -19,5 +19,6 @@ Operation, Quick Search
 
 Misc
     Redefine hotkeys:
-        ALT-D -> cm_EditPath
+        ALT-D  -> cm_EditPath
+        Ctrl-G -> cm_Bash
 

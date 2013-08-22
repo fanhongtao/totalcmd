@@ -1,5 +1,5 @@
 [Buttonbar]
-Buttoncount=28
+Buttoncount=29
 button1=wcmicons.dll
 cmd1=cm_Rereadsource
 iconic1=0
@@ -76,3 +76,7 @@ iconic27=0
 button28=%windir%\system32\cmd.exe
 cmd28=cm_ExecuteDOS
 iconic28=0
+button29=D:\Program Files\Git\etc\git.ico
+cmd29=em_Bash
+iconic29=0
+menu29=Bash
