@@ -1,5 +1,5 @@
 [Buttonbar]
-Buttoncount=29
+Buttoncount=30
 button1=wcmicons.dll
 cmd1=cm_Rereadsource
 iconic1=0
@@ -71,12 +71,16 @@ button26=notepad.exe
 cmd26=notepad.exe
 iconic26=0
 menu26=Notepad
-button27=
+button27=calc.exe
+cmd27=calc.exe
 iconic27=0
+menu27=Calculator
 button28=%windir%\system32\cmd.exe
 cmd28=cm_ExecuteDOS
 iconic28=0
-button29=D:\Program Files\Git\etc\git.ico
-cmd29=em_Bash
+button29=
 iconic29=0
-menu29=Bash
+button30=D:\Program Files\Git\etc\git.ico
+cmd30=em_Bash
+iconic30=0
+menu30=Bash
